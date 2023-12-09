@@ -27,7 +27,6 @@ const siteProps = {
   name: "Habram MILONGO MAYOMBO",
   title: "Nuclear technologies student & Microsoft student ambassador",
   email: "habram.mayombo@studentambassador.com",
-  email: "habrammayomboh5@gmail.com",
   gitHub: "Habramh5",
   instagram: "",
   linkedIn: "habram-mayombo-b4949321b",
