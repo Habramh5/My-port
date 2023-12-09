@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/1.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My activities",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My activity program will soon be available on this page.In the meantime you can follow me on my networks.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Free microsoft trainings",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Discover the free Microsoft training courses that will help you build your journey.",
+    url: "https://learn.microsoft.com/fr-fr/training/",
   },
   {
-    title: "My Resume Site",
+    title: "Feel free to follow my inspiring videos and my conferences on YouTube",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "You will find on my YouTube channel several inspiring videos of my research related to nuclear technologies and education as well as videos of my conferences.",
+    url: "https://www.youtube.com/channel/UC0LOmqMZwTGFnhipKEXt-eg",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "YALI conference at Denis Sassou N'guesso University.",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "What are the advantages for applying for YALI program and how to apply.",
+    url: "https://www.facebook.com/100093009351961/posts/223269007450076/?mibextid=rS40aB7S9Ucbxw6v",
   },
 ];
 
